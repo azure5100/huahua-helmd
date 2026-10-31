@@ -26,9 +26,15 @@
     "client.js",
     "references",
     "scripts",
+    "presets",
+    "docs",
+    "assets",
     "cordis.patch.yml",
     "preset.generated.patch.yml",
-    "presets"
+    "README.md",
+    "README.zh-CN.md",
+    "NOTICE.md",
+    "LICENSE"
   ],
   "publishConfig": {
     "access": "public",
